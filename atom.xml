@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhounmfly.github.io/</id>
+    <title>ZHOU</title>
+    <updated>2024-10-09T13:34:30.465Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhounmfly.github.io/"/>
+    <link rel="self" href="https://zhounmfly.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhounmfly.github.io/images/avatar.png</logo>
+    <icon>https://zhounmfly.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ZHOU</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello ]]></title>
+        <id>https://zhounmfly.github.io/post/hello-gridea/</id>
+        <link href="https://zhounmfly.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>This message is used to verify that this feed (feedId:66826530729080832) belongs to me (userId:66377135555205120). Join me in enjoying the next generation information browser https://follow.is.</p>
+]]></content>
+    </entry>
+</feed>
